@@ -4,5 +4,5 @@
 /**
  * 
  */
-module frontandbackbutton {
+module practicejava {
 }
