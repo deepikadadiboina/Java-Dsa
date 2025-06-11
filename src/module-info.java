@@ -4,5 +4,5 @@
 /**
  * 
  */
-module java2025 {
+module RestaurantManagementSystem {
 }
