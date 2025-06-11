@@ -4,5 +4,5 @@
 /**
  * 
  */
-module practicejava {
+module java2025 {
 }
